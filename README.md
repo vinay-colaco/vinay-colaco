@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I'm a 21-year-old amateur developer with a passion for software development and a diverse tech stack. I enjoy working with various programming languages and technologies to create innovative solutions.
+Welcome to my GitHub profile! I'm a 21-year-old amateur developer with a passion for web development and a diverse tech stack. I enjoy working with various programming languages and technologies to create innovative solutions.
 
 
 ## 🌐 Socials:
